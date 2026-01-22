@@ -22,7 +22,7 @@ img {
 
 /* Header Styling */
 header {
-    background-color: #7F6A93;
+    background-color: #ffebe7;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -31,7 +31,7 @@ header {
 
       /* Section Styling */
       section {
-          background: #7F6A93;
+          background: #ffebe7;
               padding: 20px;
   margin-bottom: 20px;
       border-radius: 5px;
@@ -43,15 +43,15 @@ header {
      font-size: 2.5em;
      background-color: #ffff;
      border-width: 8px;
-     border-style: dashed;
-     border-color: #000;
-     color: #04724d;
+     border-style: double;
+     border-color: #ff82a9;
+     color: #550527;
      text-align: center;
    }
 
  h2 {
   font-size: 2.5em;
-  color: #04724d;
+  color: #550527;
   text-align: center;
     }
 
